@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/client.dir/main.cpp.o CMakeFiles/client.dir/ui.cpp.o -o client  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0 /usr/lib/x86_64-linux-gnu/libboost_filesystem.so.1.74.0 -lcurses /usr/lib/x86_64-linux-gnu/libform.so 

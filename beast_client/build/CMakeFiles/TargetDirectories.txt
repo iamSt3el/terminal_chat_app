@@ -1,0 +1,3 @@
+/home/steel/main/beast_client/build/CMakeFiles/client.dir
+/home/steel/main/beast_client/build/CMakeFiles/edit_cache.dir
+/home/steel/main/beast_client/build/CMakeFiles/rebuild_cache.dir
