@@ -1,4 +1,4 @@
-# WebSocket Chat Client with NCurses UI
+# WebSocket Server and Client with NCurses UI
 
 This is a simple WebSocket chat client with an NCurses-based user interface. The client allows you to connect to a WebSocket server, send and receive messages.
 
